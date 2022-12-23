@@ -1,3 +1,7 @@
+# Project Description:
+- This a simple project(Web Mining with Dr.Legrini) that allows to search for similar words/ayats of a given text, basing on some embedding algorithms(fasttext, doc2vec..) that have trained from our custom corpus (data/quran.csv).
+
+- Later I'll improve his search accuracy as well as the design much more.
 # Code setup
 
 1. create venv environment
